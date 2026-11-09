@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What EEG signal processing techniques are used in the schizophrenia research?",
+    "relevant_chunks": [
+      "2:10",
+      "2:41"
+    ]
+  },
+  {
+    "question": "Which machine learning classifiers are used to verify schizophrenia?",
+    "relevant_chunks": [
+      "2:43",
+      "2:27"
+    ]
+  },
+  {
+    "question": "What statistical features are extracted from EEG signals?",
+    "relevant_chunks": [
+      "2:26"
+    ]
+  }
+]
